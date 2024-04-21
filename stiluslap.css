@@ -1,0 +1,58 @@
+﻿.body
+{
+    background-color:darkgreen ;
+    color: antiquewhite;
+}
+#folap
+{
+   padding:1%;
+
+
+}
+
+a:link
+{
+    color: lawngreen;
+    margin:5px;
+}
+a:visited 
+{ color: lawngreen;
+}
+a:active
+{color: lawngreen;
+   
+}
+a:hover
+{
+    color: green;
+    font-size:large;
+    background-color: lawngreen;
+}
+#pontok
+{
+    margin-left:4px;
+    padding:1%;
+}
+#fejlec 
+{
+    background-image: url("kepek/fejlec.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+#fejlec h1
+{
+    text-align: right;
+   
+}
+
+#abc
+{
+    padding: 1%;
+}
+
+.alairas
+{
+    text-align: center;
+    
+}
